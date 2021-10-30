@@ -10,13 +10,11 @@ Hi, I'm Anur, backend nodeJS developer from 🇷🇺 Russia, Samara
 <img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'>
 </p>
 
-<hr/>
+<br/>
 
 ## My contacts
 
 <a href='https://t.me/anuritto'><img src='https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white'></a>
-
-<hr/>
 
 <br/>
 
