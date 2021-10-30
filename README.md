@@ -10,7 +10,7 @@ Hi, I'm Anur, backend nodeJS developer from 🇷🇺 Russia, Samara
 
 ## My contacts
 
-<img href='https://t.me/anuritto' src='https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white'>
+<a href='https://t.me/anuritto'><img src='https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white'></a>
 
 ## My stats
 
