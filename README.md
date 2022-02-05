@@ -1,6 +1,6 @@
 <h1> Welcome</h1>
 
-Hi, I'm Anur, backend nodeJS developer from 🇷🇺 Russia, Samara
+Hi, I'm Anur, backend Node.js developer from 🇷🇺 Russia, Samara
 
 ## Technology i use
 
@@ -16,8 +16,6 @@ Hi, I'm Anur, backend nodeJS developer from 🇷🇺 Russia, Samara
 <img src='https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white'>
 <img src='https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white'>
 </div>
-
-<br/>
 
 ## My contacts
 
