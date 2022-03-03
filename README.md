@@ -18,9 +18,12 @@ Hi, I'm Anur, backend Node.js developer from 🇷🇺 Russia, Samara
 </div>
 
 ## My contacts
-
+<div>
 <a href='https://t.me/anuritto'><img src='https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white'></a>
+</div>
+<div>
 <a href='https://career.habr.com/anuritto'> Хабр Карьера</a>
+</div>
 
 <br/>
 
