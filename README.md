@@ -1,6 +1,6 @@
 <h1> Welcome</h1>
 
-Hi, I'm Anur, backend Node.js developer from 🇷🇺 Russia, Samara
+Hi, I'm Anur, backend Node.js developer
 
 ## Technology i use
 
