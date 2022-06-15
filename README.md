@@ -24,6 +24,9 @@ Hi, I'm Anur, backend Node.js developer
 <div>
 <a href='https://career.habr.com/anuritto'> Habr Career</a>
 </div>
+<div>
+<a href='https://www.linkedin.com/in/anuritto/'> linkedin</a>
+</div>
 
 <br/>
 
