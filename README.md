@@ -1,6 +1,6 @@
 <h1> Welcome</h1>
 
-Hi, I'm Anur, backend Node.js developer
+Hi, I'm Anur, backend developer
 
 ## Technology i use
 
