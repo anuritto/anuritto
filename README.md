@@ -11,6 +11,9 @@ Hi, I'm Anur, backend developer
 <img src='https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white'>
 </div>
 <div>
+  <img src='https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white'>
+</div>
+<div>
 <img src='https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white'>
 <img src='https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white'>
 <img src='https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white'>
