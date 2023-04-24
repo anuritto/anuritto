@@ -29,7 +29,7 @@ Hi, I'm Anur, backend developer
 <a href='https://career.habr.com/anuritto'> Habr Career</a>
 </div>
 <div>
-<a href='https://www.linkedin.com/in/anuritto/'> linkedin</a>
+<a href='https://www.linkedin.com/in/anuritto/'> <img src='https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white'/></a>
 </div>
 
 <br/>
