@@ -23,14 +23,15 @@ Hi, I'm Anur, backend developer
 
 ## My contacts
 <div>
+<a href='https://www.linkedin.com/in/anuritto/'> <img src='https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white'/></a>
+</div>
+<div>
 <a href='https://t.me/anuritto'><img src='https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white'></a>
 </div>
 <div>
 <a href='https://career.habr.com/anuritto'><img src='https://img.shields.io/badge/Habr-65A3BE.svg?style=for-the-badge&logo=Habr&logoColor=white'/></a>
 </div>
-<div>
-<a href='https://www.linkedin.com/in/anuritto/'> <img src='https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white'/></a>
-</div>
+
 
 <br/>
 
